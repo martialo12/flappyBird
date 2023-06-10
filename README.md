@@ -31,7 +31,7 @@ In other to execute this code you should make sure you have  [python 3.x](https:
    ```
 
 ### youtube tuto:
-[🕹️🐦 Flappy Bird en Python : Développez votre premier jeu en quelques minutes seulement ! avec ChatGpt ](http://bit.ly/3SsTu4z)
+[🕹️🐦 Flappy Bird en Python : Développez votre premier jeu en quelques minutes seulement ! avec ChatGpt ](https://youtu.be/EwQ8xo-0rR4)
 
 
 ### Author
